@@ -1,7 +1,9 @@
 # Sentiment Analysis with Transformers
 ======================================================
 
-This repository contains an implementation of a sentiment analysis model using the popular Transformer architecture. Data is retrieve from kaggle - https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews
+This repository contains an implementation of a sentiment analysis model using the popular Transformer architecture. Datasets are from kaggle  
+- https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews  
+- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 **Overview**
 -----------
